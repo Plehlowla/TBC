@@ -113,7 +113,7 @@ const textNodes = [
   },
   {
     id: 4,
-    text: "You went to management, they said they'll come cover but never did...",
+    text: "You went to management, they said they'll come over but never did...",
     options: [
       {
         text: 'Try Again',
