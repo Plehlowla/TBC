@@ -50,23 +50,23 @@ const textNodes = [
         nextText: 2
       },
       {
-        text: 'Phillip',
+        text: 'Rick',
         nextText: 2
       },
       {
-        text: 'Rusty',
+        text: 'Cody',
         nextText: 2
       },
       {
-        text: 'Corey',
+        text: 'Morty',
         nextText: 2
       },
       {
-        text: 'Robert',
+        text: 'Kenny',
         nextText: 2
       },
       {
-        text: 'Jerry',
+        text: 'Tom',
         nextText: 2
       }
     ]
